@@ -50,10 +50,6 @@ https://github.com/davidinfosec/downloadclip/assets/87215831/cf50cb7b-f701-4ddf-
 - Python 3.x
 - `pytube` library
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Support:
 
 Feel like this has been useful? Donate toward my latest projects. https://www.poof.io/tip/@davidinfosec
