@@ -38,13 +38,8 @@ Clips a video from the specified start time to the end time.
 
 ## Example
 
-```python
-if __name__ == "__main__":
-    url = input("Enter the YouTube video URL: ")
-    save_path = input("Enter the directory to save the video: ")
 
-    # ... (rest of the existing code)
-```
+https://github.com/davidinfosec/downloadclip/assets/87215831/cf50cb7b-f701-4ddf-8007-91c98499fb71
 
 ## Requirements
 
